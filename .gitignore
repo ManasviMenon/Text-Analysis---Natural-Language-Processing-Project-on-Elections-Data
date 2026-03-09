@@ -1,0 +1,8 @@
+submissions_2025 federal election/
+submissions_text_v2.pkl
+submissions_text.pkl
+bertopic_embeddings.npy
+bertopic_env/
+*.pkl
+*.npy
+__pycache__/
